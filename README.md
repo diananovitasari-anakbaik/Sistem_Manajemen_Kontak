@@ -3,6 +3,31 @@ NAMA ANGGOTA
 2. ANDIEN AMALIA FITRI  (K3523012)
 3. DIANA NOVITASARI     (K3523024)
 
+# 📇 Sistem Manajemen Kontak (Contact Management System)
+
+Aplikasi web berbasis Laravel untuk mengelola data kontak dan grup secara efisien, dilengkapi dengan fitur autentikasi pengguna, dashboard statistik, dan ekspor data ke format CSV.
+
+Proyek ini dikembangkan sebagai bagian dari **UAS Praktikum Pemrograman** untuk mendemonstrasikan penerapan *full-stack web development* modern.
+
+## 👥 Tim Pengembang (Kelompok 6B - PTIK23 - UNS)
+- **Adella Putri Ayu** (K3523002)
+- **Andien Amalia Fitri** (K3523012) *(Frontend UI, Routing, & Dokumentasi)* 👈 *(Sesuaikan dengan kontribusi asli Anda)*
+- **Diana Novitasari** (K3523024)
+
+## ✨ Fitur Utama
+- **Autentikasi Pengguna**: Sistem login/register yang aman menggunakan Laravel Breeze/Jetstream.
+- **CRUD Kontak & Grup**: Tambah, baca, perbarui, dan hapus data kontak yang terorganisir dalam grup.
+- **Dashboard Statistik**: Menampilkan total kontak dan jumlah kontak baru hari ini secara *real-time*.
+- **Ekspor Data**: Fitur ekspor daftar kontak dalam grup ke format `.csv`.
+- **Manajemen Profil**: Pengguna dapat memperbarui atau menghapus akun mereka sendiri.
+
+## 🛠️ Tech Stack
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
