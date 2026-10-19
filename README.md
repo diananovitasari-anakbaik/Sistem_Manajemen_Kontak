@@ -1,8 +1,3 @@
-NAMA ANGGOTA
-1. ADELLA PUTRI AYU     (K3523002)
-2. ANDIEN AMALIA FITRI  (K3523012)
-3. DIANA NOVITASARI     (K3523024)
-
 # 📇 Sistem Manajemen Kontak (Contact Management System)
 
 Aplikasi web berbasis Laravel untuk mengelola data kontak dan grup secara efisien, dilengkapi dengan fitur autentikasi pengguna, dashboard statistik, dan ekspor data ke format CSV.
@@ -11,7 +6,7 @@ Proyek ini dikembangkan sebagai bagian dari **UAS Praktikum Pemrograman** untuk 
 
 ## 👥 Tim Pengembang (Kelompok 6B - PTIK23 - UNS)
 - **Adella Putri Ayu** (K3523002)
-- **Andien Amalia Fitri** (K3523012) *(Frontend UI, Routing, & Dokumentasi)* 👈 *(Sesuaikan dengan kontribusi asli Anda)*
+- **Andien Amalia Fitri** (K3523012) 
 - **Diana Novitasari** (K3523024)
 
 ## ✨ Fitur Utama
